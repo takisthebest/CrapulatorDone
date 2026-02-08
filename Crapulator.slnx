@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Add/CrapEngine.csproj" />
+  <Project Path="Crapulator/Crapulator.csproj" />
+</Solution>
